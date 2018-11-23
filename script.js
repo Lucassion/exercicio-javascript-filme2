@@ -5,3 +5,5 @@ menuHamburguer.onclick = () => {
   menuHamburguer.classList.toggle('ativo');
   navMobile.classList.toggle('ativo');
 }
+
+// Exercicio: direcionar cada filme a seu respectivo genêro, pelo menu.
